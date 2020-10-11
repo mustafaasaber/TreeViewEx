@@ -1,0 +1,17 @@
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\bin\Debug\BindingWithControllerSample.exe
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\bin\Debug\BindingWithControllerSample.pdb
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\bin\Debug\TreeViewEx.dll
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\bin\Debug\TreeViewEx.pdb
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\MainWindow.g.cs
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\App.g.cs
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample_MarkupCompile.cache
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample_MarkupCompile.lref
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\MainWindow.baml
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample.g.resources
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample.Properties.Resources.resources
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample.csproj.GenerateResource.cache
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample.csproj.CoreCompileInputs.cache
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample.csproj.CopyComplete
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample.exe
+F:\repos\TreeViewEx\Samples\SelectionBindingWithController\obj\Debug\BindingWithControllerSample.pdb

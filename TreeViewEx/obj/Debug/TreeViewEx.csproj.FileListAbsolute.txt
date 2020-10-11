@@ -1,0 +1,17 @@
+F:\repos\TreeViewEx\TreeViewEx\bin\Debug\TreeViewEx.dll
+F:\repos\TreeViewEx\TreeViewEx\bin\Debug\TreeViewEx.pdb
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.csprojAssemblyReference.cache
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\themes\Generic.baml
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx_MarkupCompile.cache
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx_MarkupCompile.lref
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\themes\EditTextBox.baml
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\themes\SystemColors.baml
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\themes\TreeViewEx.baml
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\themes\TreeViewExItem.baml
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.g.resources
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\tainicom.TreeViewEx.Properties.Resources.resources
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.csproj.GenerateResource.cache
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.csproj.CoreCompileInputs.cache
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.dll
+F:\repos\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.pdb
